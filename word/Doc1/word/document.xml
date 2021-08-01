@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:o="urn:schemas-microsoft-com:office:office"
+            xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+            xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml"
+            xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+            xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+            xmlns:w10="urn:schemas-microsoft-com:office:word"
+            xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+            xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+            xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+            xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+            xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+            xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 wp14">
+    <w:body>
+        <w:p w:rsidR="0036666C" w:rsidRPr="00E9067E" w:rsidRDefault="00BF04A0">
+            <w:pPr>
+                <w:rPr>
+                    <w:b/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00E9067E">
+                <w:rPr>
+                    <w:b/>
+                </w:rPr>
+                <w:t>123</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00096B8F" w:rsidRPr="001844EF" w:rsidRDefault="00096B8F">
+            <w:pPr>
+                <w:rPr>
+                    <w:i/>
+                    <w:color w:val="FF0000"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="001844EF">
+                <w:rPr>
+                    <w:i/>
+                    <w:color w:val="FF0000"/>
+                </w:rPr>
+                <w:t>456</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00096B8F" w:rsidRPr="001844EF" w:rsidRDefault="00096B8F">
+            <w:pPr>
+                <w:rPr>
+                    <w:color w:val="548DD4" w:themeColor="text2" w:themeTint="99"/>
+                    <w:u w:val="single"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="001844EF">
+                <w:rPr>
+                    <w:color w:val="548DD4" w:themeColor="text2" w:themeTint="99"/>
+                    <w:u w:val="single"/>
+                </w:rPr>
+                <w:t>789</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00096B8F" w:rsidRDefault="00096B8F">
+            <w:r w:rsidRPr="001844EF">
+                <w:rPr>
+                    <w:highlight w:val="yellow"/>
+                </w:rPr>
+                <w:t>101112</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00E9067E" w:rsidRDefault="00E9067E">
+            <w:r>
+                <w:t>Left</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00E9067E" w:rsidRDefault="00E9067E" w:rsidP="00E9067E">
+            <w:pPr>
+                <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+                <w:t>Center</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00E9067E" w:rsidRDefault="00E9067E" w:rsidP="00E9067E">
+            <w:pPr>
+                <w:jc w:val="right"/>
+            </w:pPr>
+            <w:r>
+                <w:t>Right</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00E9067E" w:rsidRDefault="00E9067E" w:rsidP="00E9067E">
+            <w:pPr>
+                <w:jc w:val="both"/>
+            </w:pPr>
+            <w:r>
+                <w:t>Full space</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="008D5141" w:rsidRDefault="008D5141" w:rsidP="008D5141">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="3"/>
+                </w:numPr>
+                <w:jc w:val="both"/>
+            </w:pPr>
+            <w:r>
+                <w:t>1</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="008D5141" w:rsidRDefault="008D5141" w:rsidP="008D5141">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="3"/>
+                </w:numPr>
+                <w:jc w:val="both"/>
+            </w:pPr>
+            <w:r>
+                <w:t>2</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="008D5141" w:rsidRDefault="008D5141" w:rsidP="008D5141">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="3"/>
+                </w:numPr>
+                <w:jc w:val="both"/>
+            </w:pPr>
+            <w:r>
+                <w:t>3</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="008D5141" w:rsidRDefault="008D5141" w:rsidP="008D5141">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="3"/>
+                </w:numPr>
+                <w:jc w:val="both"/>
+            </w:pPr>
+            <w:r>
+                <w:t>4</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="009606FB" w:rsidRDefault="009606FB" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="009606FB" w:rsidRDefault="009606FB" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="009606FB" w:rsidRDefault="009606FB" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="009606FB" w:rsidRDefault="009606FB" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="009606FB" w:rsidRDefault="009606FB" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="009606FB" w:rsidRDefault="009606FB" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="009606FB" w:rsidRDefault="009606FB" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="009606FB" w:rsidRDefault="009606FB" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="009606FB" w:rsidRDefault="009606FB" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="009606FB" w:rsidRDefault="009606FB" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="009606FB" w:rsidRDefault="009606FB" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="009606FB" w:rsidRDefault="009606FB" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="009606FB" w:rsidRDefault="009606FB" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="009606FB" w:rsidRDefault="009606FB" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="009606FB" w:rsidRDefault="009606FB" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="009606FB" w:rsidRDefault="009606FB" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="009606FB" w:rsidRPr="00F102C3" w:rsidRDefault="009606FB" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="009606FB">
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t xml:space="preserve">Равным образом консультация с профессионалами из IT в значительной степени обуславливает создание новых предложений. С </w:t>
+            </w:r>
+            <w:r w:rsidRPr="009606FB">
+                <w:rPr>
+                    <w:b/>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+                <w:t>другой</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009606FB">
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> стороны повышение уровня </w:t>
+            </w:r>
+            <w:r w:rsidRPr="009606FB">
+                <w:rPr>
+                    <w:strike/>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+                <w:t>гражданского</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009606FB">
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> сознания позволяет выполнить важнейшие задания по разработке системы обучения кадров, </w:t>
+            </w:r>
+            <w:r w:rsidRPr="009606FB">
+                <w:rPr>
+                    <w:u w:val="single"/>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+                <w:t>соответствующей</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009606FB">
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> насущным потребностям. </w:t>
+            </w:r>
+            <w:r w:rsidRPr="009606FB">
+                <w:rPr>
+                    <w:i/>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+                <w:t>Разнообразный</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009606FB">
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> и богатый </w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r w:rsidRPr="009606FB">
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+                <w:t>опыт</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r w:rsidRPr="009606FB">
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> выбранный нами инновационный путь создаёт предпосылки качественно новых шагов для дальнейших направлений развития проекта.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00F4742A" w:rsidRDefault="00F4742A" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F4742A">
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+                <w:t>Задача организации, в особенности же консультация с профессионалами из IT создаёт предпосылки
+                    качественно новых шагов для направлений прогрессивного развития! С другой стороны реализация
+                    намеченного плана развития способствует подготовке и реализации ключевых компонентов планируемого
+                    обновления? Не следует, однако, забывать о том, что курс на социально-ориентированный национальный
+                    проект создаёт предпосылки качественно новых шагов для системы обучения кадров, соответствующей
+                    насущным потребностям? Практический опыт показывает, что новая модель организационной деятельности
+                    способствует повышению актуальности модели развития?
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRDefault="00F102C3" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRDefault="00F102C3" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRDefault="00F102C3" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRDefault="00F102C3" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRDefault="00F102C3" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRDefault="00F102C3" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRDefault="00F102C3" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00AF458B" w:rsidRDefault="00AF458B" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00AF458B" w:rsidRDefault="00AF458B" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00AF458B" w:rsidRDefault="00AF458B" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00AF458B" w:rsidRDefault="00AF458B" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00AF458B" w:rsidRDefault="00AF458B" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00AF458B" w:rsidRDefault="00AF458B" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00AF458B" w:rsidRDefault="00AF458B" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00AF458B" w:rsidRDefault="00AF458B" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00AF458B" w:rsidRDefault="00AF458B" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00AF458B" w:rsidRDefault="00AF458B" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00AF458B" w:rsidRDefault="00AF458B" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRDefault="00F102C3" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRDefault="00F102C3" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRDefault="00F102C3" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRDefault="00F102C3" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRDefault="00AF458B" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:noProof/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="4749165" cy="9040495"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="8255"/>
+                        <wp:docPr id="1" name="Рисунок 1" descr="C:\Users\ost\Pictures\IMG_20180522_184102_030-1.jpg"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="0" name="Picture 1"
+                                                   descr="C:\Users\ost\Pictures\IMG_20180522_184102_030-1.jpg"/>
+                                        <pic:cNvPicPr>
+                                            <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                                        </pic:cNvPicPr>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId8">
+                                            <a:extLst>
+                                                <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                                    <a14:useLocalDpi
+                                                            xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"
+                                                            val="0"/>
+                                                </a:ext>
+                                            </a:extLst>
+                                        </a:blip>
+                                        <a:srcRect/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr bwMode="auto">
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="4749165" cy="9040495"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                        <a:noFill/>
+                                        <a:ln>
+                                            <a:noFill/>
+                                        </a:ln>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+            <w:bookmarkEnd w:id="0"/>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRDefault="00F102C3" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRDefault="00F102C3" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRDefault="00F102C3" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRDefault="00F102C3" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRDefault="00F102C3" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F102C3" w:rsidRPr="00F4742A" w:rsidRDefault="00F102C3" w:rsidP="009606FB">
+            <w:pPr>
+                <w:ind w:left="360"/>
+                <w:rPr>
+                    <w:lang w:val="ru-RU"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:sectPr w:rsidR="00F102C3" w:rsidRPr="00F4742A">
+            <w:headerReference w:type="default" r:id="rId9"/>
+            <w:footerReference w:type="default" r:id="rId10"/>
+            <w:pgSz w:w="12240" w:h="15840"/>
+            <w:pgMar w:top="1134" w:right="850" w:bottom="1134" w:left="1701" w:header="708" w:footer="708"
+                     w:gutter="0"/>
+            <w:cols w:space="708"/>
+            <w:docGrid w:linePitch="360"/>
+        </w:sectPr>
+    </w:body>
+</w:document>
